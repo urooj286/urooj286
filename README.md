@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @urooj286
 - 👀 I’m interested in animation and in UI/UX
 - 🌱 I’m currently learning DSA, CEW, and OOPS
-- 💞️ I’m looking to collaborate on WED DEVELOPMENT
+- 💞️ I’m looking to collaborate on WED DEVELOPMENT systems
 - 📫 How to reach me fatimaurooj2004@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
